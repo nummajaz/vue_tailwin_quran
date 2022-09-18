@@ -1,0 +1,36 @@
+<template>
+    <div class="flex min-h-screen bg-gray-100 pl-10 pt-10">
+    <div class="w-40">
+      <div class="bg-white shadow rounded-lg overflow-hidden">
+        <div class="px-4 py-2 leading-relaxed text-gray-800 text-sm">
+          <h1>Surat An-Naml</h1>
+        </div>
+        <div class="px-4 py-3 bg-gradient-to-br from-teal-400 to-teal-600 flex justify-between">
+          <div class="flex items-center">
+            <div class="flex-shrink-0 mr-3">
+              <img class="w-10 h-10 rounded-full border-2 border-white object-cover" src="https://ewr1.vultrobjects.com/lmsbzzbx/attachment/ua3yiphoto1646823839.jpeg" alt="">
+            </div>
+            <div class="text-white text-sm">
+              23 ayat
+            </div>
+          </div>
+          <div class="items-center">
+            <a class="text-white text-opacity-50 hover:text-opacity-100">
+              <svg role="img" width="13" height="12" class="fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Twitter</title><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+
+}
+</script>
+
+<style>
+
+</style>
